@@ -34,7 +34,7 @@ pip install httpx
 
 ## **Usage**
 
-You can find an example of how to use this API in the example.py file or you can do like the following code
+You can find an example of how to use this API in the (_**example.py**_) file or you can do like the following code
 
 ```python
 from os import name, system
